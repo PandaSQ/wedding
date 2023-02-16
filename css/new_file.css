@@ -1,0 +1,95 @@
+.font-top{
+	color: #858585;
+	font-size:18px ;
+	line-height:26px ;
+	padding-right: 7px;
+}
+.font-top-one{
+	color: #858585;
+	padding-left: 15px;
+}
+.font-top-one a:hover{
+	color: #f8cfcf;
+}
+.font-top:hover{
+	color: #f8cfcf;
+	text-decoration: none;
+}
+
+/*底部背景图片*/
+.bg-bottom{
+	background-image: url(../img/foot_bk.jpg);
+}
+/*底部标题字体*/
+.font-ch{
+	font-size: 28px;
+    line-height: 36px;
+    height: 33px;
+}
+.gf-a{
+	font-size:18px ;
+	color: #212529;
+}
+.gf-a a{
+	font-size:18px ;
+	color: #212529;
+}
+.gf-a a:hover{
+	color: #212529;
+}
+
+/*轮播图*/
+.rotation {
+	width: 100%;
+	height: 433pxs;
+}
+
+/*分割线*/
+.line{
+	width: 960px;
+	border-bottom: 1px solid #e2e2e2;
+}
+
+/*首页字体颜色*/
+.font-color{
+	color: #747774;
+}
+.font-color1{
+	color: #747774;
+	font-size:10px ;
+}
+/*100分婚礼字*/
+.f100{
+	font-size:20px ;
+	line-height: 26px;
+	height: 26px;
+	margin-top: 10px;
+}
+/*100分婚礼按钮*/
+.b100{
+	background: #b2b2b2;
+	width: 90px;
+	height: 40px;
+	border: none;
+}
+.b100 a,.b100 a:hover{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+/*面包屑导航*/
+.bread a{
+	color: #d8d8d8;
+}
+.bread a:hover{
+	color: #d8d8d8;
+}
+
+/*经典案例标题*/
+.cla{
+	border-top:2px  solid #d8d8d8;
+	border-bottom:4px solid #d8d8d8 ;
+	font-size: 24px;
+	line-height: 38px;
+	color: #747774;
+}
